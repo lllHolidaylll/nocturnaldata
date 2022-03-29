@@ -1,77 +1,33 @@
 {
-  "vehicles": [
-    {
-      "id": 1,
-      "classname": "Muscle",
-      "vehicle_make_id": "Vapid", 
-      "label": "Blade",
-      "description": "Two door sedan made for the greatest generation and lusted after by their jaded children.", 
-      "price": "15000",
-      "capacity": 50, 
-      "occupants": 2,
-      "condition": "New",
-      "image": "https://cdn.discordapp.com/attachments/661807814548914200/838700427758403594/Blade.png"
-    },
-    {
-      "id": 2,
-      "classname": "Muscle",
-      "vehicle_make_id": "Vapid", 
-      "label": "Blade",
-      "description": "Two door sedan made for the greatest generation and lusted after by their jaded children.", 
-      "price": "15000",
-      "capacity": 50, 
-      "occupants": 2,
-      "condition": "New",
-      "image": "https://cdn.discordapp.com/attachments/661807814548914200/838700427758403594/Blade.png"
-    },
-    {
-      "id": 3,
-      "classname": "Muscle",
-      "vehicle_make_id": "Vapid", 
-      "label": "Blade",
-      "description": "Two door sedan made for the greatest generation and lusted after by their jaded children.", 
-      "price": "15000",
-      "capacity": 50, 
-      "occupants": 2,
-      "condition": "New",
-      "image": "https://cdn.discordapp.com/attachments/661807814548914200/838700427758403594/Blade.png"
-    },
-    {
-      "id": 4,
-      "classname": "Muscle",
-      "vehicle_make_id": "Vapid", 
-      "label": "Blade",
-      "description": "Two door sedan made for the greatest generation and lusted after by their jaded children.", 
-      "price": "15000",
-      "capacity": 50, 
-      "occupants": 2,
-      "condition": "New",
-      "image": "https://cdn.discordapp.com/attachments/661807814548914200/838700427758403594/Blade.png"
-    },
-    {
-      "id": 5,
-      "classname": "Muscle",
-      "vehicle_make_id": "Number2", 
-      "label": "Blade",
-      "description": "Two door sedan made for the greatest generation and lusted after by their jaded children.", 
-      "price": "15000",
-      "capacity": 50, 
-      "occupants": 2,
-      "condition": "New",
-      "image": "https://cdn.discordapp.com/attachments/661807814548914200/838700427758403594/Blade.png"
-    },
-    {
-      "id": 6,
-      "classname": "Muscle",
-      "vehicle_make_id": "Vapid", 
-      "label": "Blade",
-      "description": "Two door sedan made for the greatest generation and lusted after by their jaded children.", 
-      "price": "15000",
-      "capacity": 50, 
-      "occupants": 2,
-      "condition": "New",
-      "image": "https://cdn.discordapp.com/attachments/661807814548914200/838700427758403594/Blade.png"
-    }
-
-  ]
+    "nfts": [{
+            "id": 1,
+            "category": "art",
+            "purchase": 0.003,
+            "coin": "Solana",
+            "title": "Pesk Fox #457",
+            "description": "Rank one in a rugged project",
+            "rarity": "#1",
+            "url": "soon"
+        },
+        {
+            "id": 2,
+            "category": "realty",
+            "purchase": 1.18,
+            "coin": "Solana",
+            "title": "Room #4515",
+            "description": "Art studio",
+            "rarity": "unknown",
+            "url": "2019-01-03T21:54:00.000Z"
+        },
+        {
+            "id": 3,
+            "category": "art",
+            "purchase": 0.5,
+            "coin": "Solana",
+            "title": "Degen Moon Council #224",
+            "description": "Rick ripoff",
+            "rarity": "unknown",
+            "url": "2019-01-03T21:54:00.000Z"
+        }
+    ]
 }
